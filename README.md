@@ -1,7 +1,7 @@
 # Live-AI-Chatbot
 Built an interactive chatbot powered by Python and NLTK, integrating machine learning algorithms to deliver human-like responses with a focus on usability and learning efficiency
 
-
+![Live-chatbot](https://github.com/user-attachments/assets/87f7ae84-8ce9-4bf8-8baf-cd557a61ea4c)
 
 ### Chatbot:
 A chatbot is an intelligent software application designed to simulate human-like conversations with users through text or voice interactions. It leverages Artificial Intelligence (AI) and Natural Language Processing (NLP) to understand and respond to user queries in a natural and conversational manner.
